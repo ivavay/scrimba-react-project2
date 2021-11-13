@@ -1,11 +1,9 @@
 import React from 'react';
-import './App.css';
+import './style.css'
 
 function App() {
   return (
-    <main>
-      React⚛️ + Vite⚡ + Replit🌀
-    </main>
+    <h1>Hello, travel journal!</h1>
   );
 }
 
