@@ -2,6 +2,6 @@
 
 Part of the Scrimba React course (solo project #2) to practice using props to dynamically update the components :) 
 
-<img src="/images/featureimage.jpg" width= "450">
+<img src="/images/featureimage.jpg" width= "450", display: "block", margin = "auto">
 
 https://travel-journal.ivavay.repl.co/
