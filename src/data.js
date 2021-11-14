@@ -8,7 +8,7 @@ export default [
     },
     {
         image: "elephant-mountain.png",
-        title: "Elephant Moutain",
+        title: "Elephant Mountain",
         location: "Taipei",
         googleMap: "https://goo.gl/maps/nfnmvniLTVjqUKdu6",
         description: "This is a highly accessible hike that only takes a half an hour to see the city view. To get to the entrance of the trails, simply take the red line all the way down to the Elephant Mountain MRT station and follow the signs." 
@@ -18,6 +18,6 @@ export default [
         title: "Dadaocheng",
         location: "Taipei",
         googleMap: "https://goo.gl/maps/84uRUckXWtC4f4mZ6",
-        description: "Just a five-min walk away from the Beiman MRT station, this area is home to many fabric shops and indepedent artisan stores. I loved exploring andgrabbing snacks from nearby vendors." 
+        description: "Just a five-min walk away from the Beiman MRT station, this area is home to many fabric shops and indepedent artisan stores. I loved exploring and grabbing snacks from nearby vendors." 
     }
 ]
